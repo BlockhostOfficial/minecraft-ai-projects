@@ -5,7 +5,7 @@ AI is improving very fast and some developers and bringing it to Minecraft. This
 This is a list of projects specifically made for Minecraft.
 
 | Name | Website | Description |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- |
 | Codella AI | [Website](https://codella.ai) | Build Minecraft pluginds and mods with AI and get a compiled jar |
 | Craftbench AI | [Website](https://www.craftbench.ai) | Create custom Minecraft resource packs with AI |
 
@@ -13,5 +13,5 @@ This is a list of projects specifically made for Minecraft.
 This is a list of projects that can be useful for your Minecraft community or server.
 
 | Name | Website | Description |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- |
 | Kodari AI | [Website](https://kodari.ai/) | Create Discord bots with AI |
